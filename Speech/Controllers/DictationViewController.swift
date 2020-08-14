@@ -181,7 +181,7 @@ class DictationViewController: UIViewController, UIPickerViewDelegate, UIPickerV
         let urlParams = [
             "target": target,
             "q": textToTranslate,
-            "key": "AIzaSyCgJFtQz4X7JYJ4z92viV_goEvp1mtV57c",
+            "key": "nope",
             "source": source,
             ]
         
